@@ -31,7 +31,6 @@ class TextWindow(wx.Dialog):
 		self.outputCtrl.SetValue(text)
 		self.outputCtrl.SetFocus()
 		self.Raise()
-		self.Maximize()
 		self.Show()
 
 	def onOutputKeyDown(self, event):
@@ -54,7 +53,6 @@ class re(wx.Dialog):
 		self.outputCtrl.SetValue(text)
 		self.outputCtrl.SetFocus()
 		self.Raise()
-		self.Maximize()
 		self.Show()
 
 	def onOutputKeyDown(self, event):
@@ -87,6 +85,6 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 	@script(gesture="kb:NVDA+alt+c")
 	def script_hi (self, gesture):
 		TextWindow(1,"currency dialog")
-	script_hi.__doc__= _("Pressing it once toggles between on and off object sounds, and Pressing twice  it toggles ")
+	script_hi.__doc__= _("convert ")
 	def terminate(self):
 		NVDASettingsDialog.categoryClasses.remove(CRSettingsPanel)
