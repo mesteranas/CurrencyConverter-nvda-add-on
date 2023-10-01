@@ -31,6 +31,7 @@ class TextWindow(wx.Dialog):
 		self.outputCtrl.SetValue(text)
 		self.outputCtrl.SetFocus()
 		self.Raise()
+		self.Maximize()
 		self.Show()
 
 	def onOutputKeyDown(self, event):
@@ -53,6 +54,7 @@ class re(wx.Dialog):
 		self.outputCtrl.SetValue(text)
 		self.outputCtrl.SetFocus()
 		self.Raise()
+		self.Maximize()
 		self.Show()
 
 	def onOutputKeyDown(self, event):
