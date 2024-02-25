@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-02-25 10:27+0200\n"
+"PO-Revision-Date: 2024-02-25 10:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:24
+msgid "from"
+msgstr "من"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:26
+msgid "to"
+msgstr "إلى"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:75
+msgid "Currency converter"
+msgstr "محول العملات"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:75
+msgid "open  currency converter dialog"
+msgstr "فتح  محاورة محول العملات"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:77
+msgid "currency converter"
+msgstr "محول العملات"
+
+#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:81
+msgid "convert "
+msgstr "تحويل"
