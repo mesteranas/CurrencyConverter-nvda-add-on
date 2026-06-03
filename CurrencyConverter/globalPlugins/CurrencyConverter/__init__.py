@@ -26,6 +26,7 @@ class TextWindow(wx.Dialog):
 		self.sou= wx.Choice(self, name="ts")
 		self.tlable1 = wx.StaticText(self, label=_("to"), name="ts1")
 		self.sou1= wx.Choice(self, name="ts1")
+		wx.StaticText(self,-1,_("Amount"))
 		self.outputCtrl = wx.SpinCtrl(self,min=1,max=1000000)
 		self.ok=wx.Button(self,label="next")
 		self.ok.Bind(wx.EVT_BUTTON,self.a1)
@@ -80,7 +81,7 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 	scriptCategory= _("currency converter")
 	@script(gesture="kb:NVDA+alt+c")
 	def script_hi (self, gesture):
-		TextWindow(1,"currency dialog")
+		TextWindow(1,"currency converter dialog")
 	script_hi.__doc__= _("convert ")
 	def terminate(self):
 		try:

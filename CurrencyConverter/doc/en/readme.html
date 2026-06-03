@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter - NVDA Add-on</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #24292e;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #1f2328;
+            border-bottom: 1px solid #d0d7de;
+            padding-bottom: 0.3em;
+        }
+        h1 { font-size: 2em; }
+        h2 { font-size: 1.5em; margin-top: 24px; }
+        h3 { font-size: 1.25em; border-bottom: none; }
+        a {
+            color: #0969da;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        code {
+            padding: 0.2em 0.4em;
+            margin: 0;
+            font-size: 85%;
+            white-space: break-spaces;
+            background-color: rgba(175, 184, 193, 0.2);
+            border-radius: 6px;
+            font-family: ui-monospace, SFMono-Regular, SF Pro Text, Roboto Mono, New York, monospace;
+        }
+        blockquote {
+            padding: 0 1em;
+            color: #57606a;
+            border-left: .25em solid #d0d7de;
+            margin: 1em 0;
+        }
+        ul {
+            padding-left: 2em;
+        }
+        li {
+            margin-top: 0.25em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Currency Converter</h1>
+
+    <p>An NVDA add-on designed to provide instant currency conversion results right at your fingertips.</p>
+
+    <p>Author : <strong>Mister Anas</strong></p>
+
+    <h2>Installation</h2>
+
+    <p>You can install this add-on directly from the NVDA Add-on Store or download the latest package from the <a href="https://github.com/mesteranas/CurrencyConverter-nvda-add-on/releases">releases page</a>.</p>
+
+    <h2>Usage</h2>
+
+    <ul>
+        <li><strong>Open the Dialog:</strong> Press <strong>NVDA+Alt+C</strong> or navigate to the **Tools** menu in NVDA and select <strong>Currency Converter</strong>.</li>
+        <li><strong>Convert:</strong> Inside the dialog, select your origin and target currencies from the combo boxes, enter the desired value in the amount text field, and activate the <strong>Next</strong> button to get the result immediately.</li>
+        <li><strong>Smart Saving:</strong> The add-on automatically remembers and sets your last used "From" and "To" currencies for faster subsequent checks.</li>
+    </ul>
+
+    <blockquote>
+        <p><strong>Note on Codebase:</strong> The core initialization file (<code>__init__.py</code>) contains legacy logic from early development stages.</p>
+    </blockquote>
+
+    <h2>Supported Languages</h2>
+
+    <p>The add-on currently supports the following languages:</p>
+
+    <ul>
+        <li>Arabic</li>
+        <li>English</li>
+        <li>German</li>
+        <li>Turkish</li>
+    </ul>
+
+    <p><em>Note: The developer actively maintains the Arabic, English, and German translations.</em></p>
+
+    <h3>Localization Contributions</h3>
+
+    <p>If you would like to translate the add-on into another language, please submit a pull request. A complete translation contribution should include:</p>
+
+    <ul>
+        <li>All localized interface strings (<code>.po</code> files).</li>
+        <li>A translated version of this documentation.</li>
+    </ul>
+
+    <h2>Contributions</h2>
+
+    <p>Contributions of all kinds are highly appreciated! You can help the project by providing:</p>
+
+    <ul>
+        <li>Bug fixes and issue reporting</li>
+        <li>New feature implementations</li>
+        <li>Code improvements and refactoring</li>
+        <li>Localization updates</li>
+        <li>General suggestions and feedback</li>
+    </ul>
+
+    <h2>License</h2>
+
+    <p>This add-on is open-source software licensed under the <strong>GNU General Public License v2.0 (GPL-2.0)</strong>.</p>
+
+</body>
+</html>

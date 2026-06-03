@@ -5,43 +5,69 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-02-25 10:27+0200\n"
+"POT-Creation-Date: 2026-06-03 22:40+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=cp1252\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
 
 #:
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:24
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:25
 msgid "from"
 msgstr ""
 
 #:
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:26
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:27
 msgid "to"
 msgstr ""
 
 #:
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:75
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:29
+msgid "Amount"
+msgstr ""
+
+#:
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:53
+msgid "error "
+msgstr ""
+
+#:
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:79
 msgid "Currency converter"
 msgstr ""
 
 #:
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:75
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:79
 msgid "open  currency converter dialog"
 msgstr ""
 
 #:
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:77
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:81
 msgid "currency converter"
 msgstr ""
 
 #:
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:81
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:85
 msgid "convert "
+msgstr ""
+
+#:
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\google_currency.py:178
+msgid ""
+"an Error detected.\n"
+"Status code is "
+msgstr ""
+
+#:
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\google_currency.py:182
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\google_currency.py:186
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\google_currency.py:192
+#: D:\windows\folders\Github desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\google_currency.py:203
+msgid ""
+"An error detected\n"
 msgstr ""
 

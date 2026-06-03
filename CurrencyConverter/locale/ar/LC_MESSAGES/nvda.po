@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2024-02-25 10:27+0200\n"
-"PO-Revision-Date: 2024-02-25 10:29+0200\n"
+"POT-Creation-Date: 2026-06-03 22:40+0300\n"
+"PO-Revision-Date: 2026-06-03 22:44+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ar\n"
@@ -14,28 +14,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.9\n"
 
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:24
+#: D:\windows\folders\Github
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:25
 msgid "from"
 msgstr "من"
 
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:26
+#: D:\windows\folders\Github
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:27
 msgid "to"
 msgstr "إلى"
 
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:75
+#: D:\windows\folders\Github
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:29
+msgid "Amount"
+msgstr "القيمة"
+
+#: D:\windows\folders\Github
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:53
+msgid "error "
+msgstr "خطأ "
+
+#: D:\windows\folders\Github
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:79
 msgid "Currency converter"
 msgstr "محول العملات"
 
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:75
+#: D:\windows\folders\Github
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:79
 msgid "open  currency converter dialog"
 msgstr "فتح  محاورة محول العملات"
 
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:77
+#: D:\windows\folders\Github
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:81
 msgid "currency converter"
 msgstr "محول العملات"
 
-#: C:\Users\Mesteranas1\AppData\Roaming\nvda\addons\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:81
+#: D:\windows\folders\Github
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\__init__.py:85
 msgid "convert "
-msgstr "تحويل"
+msgstr "تحويل "
+
+#: D:\windows\folders\Github
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\google_currency.py:178
+msgid ""
+"an Error detected.\n"
+"Status code is "
+msgstr ""
+"حدث خطأ\n"
+"Status code is "
+
+#: D:\windows\folders\Github
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\google_currency.py:182
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\google_currency.py:186
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\google_currency.py:192
+#: desktop\CurrencyConverter-nvda-add-on\CurrencyConverter\globalPlugins\CurrencyConverter\google_currency.py:203
+msgid "An error detected\n"
+msgstr "حدث خطأ\n"
