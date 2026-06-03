@@ -1,4 +1,4 @@
-\# Currency Converter
+# Currency Converter
 
 
 
@@ -6,35 +6,35 @@ An NVDA add-on designed to provide instant currency conversion results right at 
 
 
 
-Author : \*\*Mister Anas\*\*
+Author : **Mister Anas**
 
 
 
-\## Installation
+## Installation
 
 
 
-You can install this add-on directly from the NVDA Add-on Store or download the latest package from the \[releases page](https://github.com/mesteranas/CurrencyConverter-nvda-add-on/releases).
+You can install this add-on directly from the NVDA Add-on Store or download the latest package from the [releases page](https://github.com/mesteranas/CurrencyConverter-nvda-add-on/releases).
 
 
 
-\## Usage
+## Usage
 
 
 
-\* \*\*Open the Dialog:\*\* Press \*\*NVDA+Alt+C\*\* or navigate to the \*\*Tools\*\* menu in NVDA and select \*\*Currency Converter\*\*.
+* **Open the Dialog:** Press **NVDA+Alt+C** or navigate to the **Tools** menu in NVDA and select **Currency Converter**.
 
-\* \*\*Convert:\*\* Inside the dialog, select your origin and target currencies from the combo boxes, enter the desired value in the amount text field, and activate the \*\*Next\*\* button to get the result immediately.
+* **Convert:** Inside the dialog, select your origin and target currencies from the combo boxes, enter the desired value in the amount text field, and activate the **Next** button to get the result immediately.
 
-\* \*\*Smart Saving:\*\* The add-on automatically remembers and sets your last used "From" and "To" currencies for faster subsequent checks.
-
-
-
-> \*\*Note on Codebase:\*\* The core initialization file (`\_\_init\_\_.py`) contains legacy logic from early development stages. 
+* **Smart Saving:** The add-on automatically remembers and sets your last used "From" and "To" currencies for faster subsequent checks.
 
 
 
-\## Supported Languages
+> **Note on Codebase:** The core initialization file (`__init__.py`) contains legacy logic from early development stages. 
+
+
+
+## Supported Languages
 
 
 
@@ -42,21 +42,21 @@ The add-on currently supports the following languages:
 
 
 
-\* Arabic
+* Arabic
 
-\* English
+* English
 
-\* German
+* German
 
-\* Turkish
-
-
-
-\*Note: The developer actively maintains the Arabic, English, and German translations.\*
+* Turkish
 
 
 
-\### Localization Contributions
+*Note: The developer actively maintains the Arabic, English, and German translations.*
+
+
+
+### Localization Contributions
 
 
 
@@ -64,13 +64,13 @@ If you would like to translate the add-on into another language, please submit a
 
 
 
-\* All localized interface strings (`.po` files).
+* All localized interface strings (`.po` files).
 
-\* A translated version of this documentation.
+* A translated version of this documentation.
 
 
 
-\## Contributions
+## Contributions
 
 
 
@@ -78,21 +78,21 @@ Contributions of all kinds are highly appreciated! You can help the project by p
 
 
 
-\* Bug fixes and issue reporting
+* Bug fixes and issue reporting
 
-\* New feature implementations
+* New feature implementations
 
-\* Code improvements and refactoring
+* Code improvements and refactoring
 
-\* Localization updates
+* Localization updates
 
-\* General suggestions and feedback
-
-
-
-\## License
+* General suggestions and feedback
 
 
 
-This add-on is open-source software licensed under the \*\*GNU General Public License v2.0 (GPL-2.0)\*\*.
+## License
+
+
+
+This add-on is open-source software licensed under the **GNU General Public License v2.0 (GPL-2.0)**.
 
