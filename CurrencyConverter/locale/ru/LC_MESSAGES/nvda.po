@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CurrencyConverter\n"
+"POT-Creation-Date: 2025-04-12 07:35+0500\n"
+"PO-Revision-Date: 2025-04-12 07:41+0500\n"
+"Last-Translator: \n"
+"Language-Team: Danil Kostenkov <danilkostenkov38@gmail.com\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-Basepath: ../../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: CurrencyConverter\n"
+"X-Poedit-SearchPath-2: CurrencyConverter/globalPlugins/CurrencyConverter\n"
+
+#: CurrencyConverter/globalPlugins/CurrencyConverter/__init__.py:25
+msgid "from"
+msgstr "из"
+
+#: CurrencyConverter/globalPlugins/CurrencyConverter/__init__.py:27
+msgid "to"
+msgstr "в"
+
+#: CurrencyConverter/globalPlugins/CurrencyConverter/__init__.py:52
+msgid "error "
+msgstr "ошибка "
+
+#: CurrencyConverter/globalPlugins/CurrencyConverter/__init__.py:78
+msgid "Currency converter"
+msgstr "Конвертер валют"
+
+#: CurrencyConverter/globalPlugins/CurrencyConverter/__init__.py:78
+msgid "open  currency converter dialog"
+msgstr "открывает диалог конвертера валют"
+
+#: CurrencyConverter/globalPlugins/CurrencyConverter/__init__.py:80
+msgid "currency converter"
+msgstr "конвертер валют"
+
+#: CurrencyConverter/globalPlugins/CurrencyConverter/__init__.py:84
+msgid "convert "
+msgstr "конвертировать "
